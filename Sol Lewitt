@@ -32,8 +32,9 @@ void draw()
   xPPos = xPos;
   yPPos = yPos;
   if(frameCount%8==0)
+  //original photo: https://www.magasin3.com/wp-content/uploads/2014/08/multimedia-17060-img.jpg
   {
-     
+
   }
    
  
