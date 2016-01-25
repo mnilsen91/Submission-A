@@ -36,4 +36,5 @@ void lineStorm(int num, int x, int y, int x2, int y2) {
  
 void mouseClicked() {
   redraw();
+    //original photo: http://media.vam.ac.uk/media/thira/collection_images/2009BX/2009BX6035_jpg_ds.jpg
 }
